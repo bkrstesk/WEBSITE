@@ -1,5 +1,7 @@
 # WELCOME TO MY FIRST GITHUB PAGE
 
+[SECURITY POLICY](SECURITY.MD)
+
 ----------
 
 **This page is currently under construction.**
